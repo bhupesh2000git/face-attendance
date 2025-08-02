@@ -1,4 +1,5 @@
-Flask
-Flask-Cors
-Flask-Mail
-Flask-MySQL
+numpy
+opencv-python
+dlib>=19.7
+face_recognition
+pillow
