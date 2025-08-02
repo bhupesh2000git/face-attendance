@@ -1,0 +1,24 @@
+body {
+  background-color: #f8f9fa;
+}
+.container {
+  max-width: 800px;
+}
+h1 {
+  color: #343a40;
+  text-align: center;
+}
+.btn-primary,
+.btn-success,
+.btn-secondary {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+}
+#videoFeed {
+  border: 2px solid #343a40;
+  border-radius: 5px;
+  max-width: 100%;
+}
+.alert {
+  font-size: 1.1rem;
+}
